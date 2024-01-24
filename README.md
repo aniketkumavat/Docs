@@ -1,2 +1,3 @@
 # Docs
-In this repository i share my documents of my learning
+In this repository i share my documents on topics that i learned.
+
